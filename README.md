@@ -104,3 +104,7 @@ npm run build
 1. ادخل إلى موقع [Vercel](https://vercel.com) أو [Netlify](https://netlify.com) وسجّل الدخول بحساب GitHub.
 2. اختر **Add New Project** وحدد مستودع المشروع (Repository).
 3. اضغط **Deploy** (الإعدادات جاهزة تلقائياً لـ Vite)، وخلال أقل من دقيقة ستحصل على رابط مباشر سريع ومجاني للموقع يتحدث تلقائياً كلما عدّلت الكود على GitHub.
+
+
+رابط الموقع مباشر 
+https://is.gd/Abuhurairah_Jalabiya
