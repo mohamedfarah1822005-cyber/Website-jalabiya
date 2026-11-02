@@ -6,8 +6,8 @@ export type ProductCategory = 'all' | 'royal' | 'sets' | 'classic';
  * Centralized WhatsApp Configuration
  * Easy to replace with the actual business number when going live.
  */
-export const WHATSAPP_NUMBER = '249900000000';
-export const WHATSAPP_DISPLAY = '+249 90 000 0000';
+export const WHATSAPP_NUMBER = '249905773442';
+export const WHATSAPP_DISPLAY = '+249 90 577 3442';
 
 export interface ProductItem {
   id: string;
