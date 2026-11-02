@@ -1,0 +1,6 @@
+{
+  "name": "Abu Huraira Sudanese Couture | أبو هريرة للأزياء السودانية",
+  "description": "دار أزياء سودانية فاخرة متخصصة في تصميم وتفصيل الجلابيات الرجالية الملكية وأطقم على الله من أفخر أنواع القطن والتوتال السويسري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
